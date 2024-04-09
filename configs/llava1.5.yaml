@@ -1,0 +1,10 @@
+task_instructions:
+- ""
+multi_choice_example_format:
+- "<image>\nUSER:{}\nASSISTANT:{}"
+
+short_ans_example_format:
+- "<image>\nUSER:{}
+Answer the question using a single word or phrase.\nASSISTANT:"
+temperature:
+- 0
