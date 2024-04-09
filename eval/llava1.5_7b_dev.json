@@ -1,0 +1,170 @@
+[
+    {
+        "id": "validation_Math_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "parsed_pred": "C"
+    },
+    {
+        "id": "validation_Math_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "parsed_pred": "A"
+    },
+    {
+        "id": "validation_Math_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "D"
+    },
+    {
+        "id": "validation_Math_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "D"
+    },
+    {
+        "id": "validation_Math_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "parsed_pred": "C"
+    },
+    {
+        "id": "validation_Math_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "A"
+    },
+    {
+        "id": "validation_Math_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "parsed_pred": "C"
+    },
+    {
+        "id": "validation_Math_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "parsed_pred": "B"
+    },
+    {
+        "id": "validation_Math_10",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "parsed_pred": "B"
+    },
+    {
+        "id": "validation_Math_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "B"
+    },
+    {
+        "id": "validation_Math_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "B"
+    },
+    {
+        "id": "validation_Math_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "parsed_pred": "E"
+    },
+    {
+        "id": "validation_Math_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "parsed_pred": "B"
+    },
+    {
+        "id": "validation_Math_15",
+        "question_type": "open",
+        "answer": "['24/7', '3.429']",
+        "parsed_pred": " 1 foot per secon"
+    },
+    {
+        "id": "validation_Math_16",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "parsed_pred": "A"
+    },
+    {
+        "id": "validation_Math_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "A"
+    },
+    {
+        "id": "validation_Math_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "B"
+    },
+    {
+        "id": "validation_Math_20",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "parsed_pred": "A"
+    },
+    {
+        "id": "validation_Math_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "parsed_pred": "A"
+    },
+    {
+        "id": "validation_Math_22",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "parsed_pred": "D"
+    },
+    {
+        "id": "validation_Math_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "D"
+    },
+    {
+        "id": "validation_Math_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "D"
+    },
+    {
+        "id": "validation_Math_25",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "parsed_pred": "A"
+    },
+    {
+        "id": "validation_Math_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "parsed_pred": "A"
+    },
+    {
+        "id": "validation_Math_27",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "D"
+    },
+    {
+        "id": "validation_Math_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "A"
+    },
+    {
+        "id": "validation_Math_29",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "parsed_pred": "A"
+    },
+    {
+        "id": "validation_Math_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "parsed_pred": "D"
+    }
+]
